@@ -20,14 +20,6 @@ I build web, mobile and desktop applications with a focus on clean code, practic
 
 ---
 
-## Projects
-
-- **Plugin-Based Text Editor** — Desktop text editor built with Electron, React and TypeScript.
-- **CHEF Programming Language** — Cooking-themed programming language with parser and interpreter logic.
-- **KNOCK — The Last Confession** — AI-powered interactive web experience using RAG and generative AI.
-- **Mobile & Backend Projects** — Projects developed with React Native, Java, C++ and .NET.
-
----
 
 ## GitHub Activity
 
